@@ -24,7 +24,7 @@ I'm a queer, neurodivergent human rights activist with 10+ years in tech — 8 o
 
 - 🧠 [LinkedIn](https://www.linkedin.com/in/amy-waliszewska/)  
 - 🖼️ [Portfolio](https://bit.ly/3HBbNQP)  
-- 📝 [Blog](https://medium.com/@amy.waliszewska)  
+- 📝 [Blog](https://medium.com/@amywal) 
 - 🐦 [Twitter](https://twitter.com/amywaliszewska)
 
 ---
