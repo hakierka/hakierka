@@ -55,4 +55,4 @@ I'm a queer, neurodivergent human rights activist with 10+ years in tech — 8 o
   
 </p>
 
-<a href="https://www.buymeacoffee.com/amywaliszei" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
