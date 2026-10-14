@@ -1,8 +1,8 @@
 # Amy Waliszewska
 
-Developer relations. Stockholm.
+Developer relations in Stockholm. I write docs, build demos, run workshops and grow communities. Lately also evals, and docs that AI agents can read.
 
-JavaScript, TypeScript, Python. Docs, evals, workshops, small tools you can run.
+JavaScript, TypeScript, Rust, Python.
 
 **[Portfolio](https://hakierka.github.io)** · [LinkedIn](https://www.linkedin.com/in/amy-waliszewska/) · [writing](https://medium.com/@amywal) · amy.waliszewska@gmail.com
 
@@ -14,7 +14,7 @@ Eval harness for a fake liveops desk agent. Golden questions, permission leaks, 
 
 ### [who-uses-this](https://github.com/hakierka/who-uses-this)
 
-480 people on an internal LLM tool. Sixteen segments, named after the email I would send.
+Synthetic dataset (seed 7). 480 fake people, 16 segments named after the email I would send. No real names, teams, or company dumps.
 
 ![16 segments](https://raw.githubusercontent.com/hakierka/who-uses-this/main/shots/segments.png)
 
