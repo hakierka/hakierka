@@ -8,6 +8,8 @@ Right now I QA an internal LLM platform at EQT (Tally / Iris, ~2,000 people): fi
 
 **[Portfolio](https://hakierka.github.io)** · [LinkedIn](https://www.linkedin.com/in/amy-waliszewska/) · [writing](https://medium.com/@amywal) · amy.waliszewska@gmail.com
 
+![On stage at Blocksplit](https://hakierka.github.io/photos/blocksplit-stage.jpg)
+
 ## What you can actually run
 
 ### [liveops-evals](https://github.com/hakierka/liveops-evals)
