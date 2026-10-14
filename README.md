@@ -1,58 +1,38 @@
-# 👋 Hi, I'm Amy Waliszewska
+# Amy Waliszewska
 
-## 🦄 Developer Advocate | Speaker | Writer | Community Builder
+Partner engineering and developer relations. Stockholm.
 
-I'm a queer, neurodivergent human rights activist with 10+ years in tech — 8 of those in Developer Relations (mostly Web3), and 5 as a software developer. I'm all about building inclusive communities, creating high-quality content, and making technical things feel simple.
+I get people from **we bought the model** to **we actually use it** — docs, evals, workshops, launches, the messy human adoption work. Ten years in tech, eight of those in DevRel. Former software engineer (JavaScript, Python, a bit of Rust).
 
-🔧 I am open to work and scale your project to the next level.
-🎤 I speak at conferences, host workshops, and help devs understand things like DIDs, UCANs, IPFS, and CIDs.  
-✍️ I write docs, blogs, and even co-wrote a book.  
-🌈 Human Rights Activist – championing diversity in tech.
+Right now I QA an internal LLM platform at EQT (Tally / Iris, ~2,000 people): first research pass, 16 segments, 190 AI Champions. Same job as DevRel, pointed inward. A lot of that cannot go on GitHub, so the three repos below are the public shape.
 
----
+**[Portfolio](https://hakierka.github.io)** · [LinkedIn](https://www.linkedin.com/in/amy-waliszewska/) · [writing](https://medium.com/@amywal) · amy.waliszewska@gmail.com
 
-## ⚙️ What I Do
+## What you can actually run
 
-- 📣 **DevRel**: Talks, workshops, docs, memes, and onboarding magic  
-- 🧑‍🤝‍🧑 **Community**: Events, Discords, and delightful developer journeys  
-- 📚 **Content**: Blogs, tweets, newsletters, slide decks, videos  
-- 🗂️ **Docs**: Turning chaos into clarity – one Markdown at a time
+### [liveops-evals](https://github.com/hakierka/liveops-evals)
 
----
+Eval harness for a fake liveops desk agent. Goldens, permission leaks, a player ticket trying to jailbreak the bot. One known miss left in on purpose.
 
-## 🌍 Find Me Elsewhere
+![Eval scorecard: 6 pass, 1 known miss on refunds](https://raw.githubusercontent.com/hakierka/liveops-evals/main/shots/scorecard.png)
 
-- 🧠 [LinkedIn](https://www.linkedin.com/in/amy-waliszewska/)  
-- 🖼️ [Portfolio](https://bit.ly/3HBbNQP)  
-- 📝 [Blog](https://medium.com/@amywal) 
-- 🐦 [Twitter](https://twitter.com/amywaliszewska)
+### [who-uses-this](https://github.com/hakierka/who-uses-this)
 
----
+480 fake people on an internal LLM tool. 16 segments named after the email I would send, not a clustering paper.
 
-## 🕹️ Fun Facts
+![16 adoption segments](https://raw.githubusercontent.com/hakierka/who-uses-this/main/shots/segments.png)
 
-- 🎮 Can’t shut up about *The Last of Us*  
-- 🐎 Born in Poland, based in Stockholm  
-- ♿ Autistic & ADHD – I treat accessibility as a priority, not an afterthought  
-- 🎉 Organizing queer tech events with performers, panels, and bingo
+### [docs-the-agent-can-read](https://github.com/hakierka/docs-the-agent-can-read)
 
+llms.txt, OpenAPI, error codes, and a tiny stdio MCP for a fake object store. Humans and agents read the same files.
 
-✨ My mission: Make tech feel like home for everyone.
+![MCP selftest](https://raw.githubusercontent.com/hakierka/docs-the-agent-can-read/main/shots/mcp.png)
 
-## 🧰 Tech Stack and Tools
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"/>   <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/></a>   <a href="https://www.ruby-lang.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="Ruby"/></a>
-<a href="https://www.rust-lang.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="Rust"/></a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="Markdown"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"/> <a href="https://www.ruby-lang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="Ruby"/></a> <a href="https://www.php.net"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP"/></a> <a href="https://www.mysql.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/></a>  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"/></a> <a href="https://jquery.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jQuery"/></a> <a href="https://getbootstrap.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap"/></a> <a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js"/></a> <a href="https://www.docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker"/></a> <a href="https://vercel.com"><img src="https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico" height="30" alt="Vercel"/></a>  <a href="https://www.figma.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma"/></a>  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="Photoshop"/></a> <a href="https://www.markdownguide.org"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" height="30" alt="Markdown"/></a>  <a href="https://notion.so"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" height="30" alt="Notion"/></a>
-<a href="https://filecoin.io" title="Filecoin"><img src="https://filecoin.io/images/filecoin-logo.svg" height="30" alt="Filecoin"/></a>
+## Also true
 
+- Led DevRel and the Storacha rebrand (Protocol Labs). Chromia Twitter 20K → 120K, organic. Concordium Academy. Cudos mainnet, Discord +60%.
+- Docs: [Storacha](https://docs.storacha.network/), [Chromia](https://rell.chromia.com), [Concordium Academy](https://academy.concordium.software), Vocdoni, Cudos, Avassa, Sequence.
+- VP, Geek Girls Carrots — 250k members.
+- [Queers for Ukraine](https://time.com/6156672/lgbtq-ukraine-refugees-russia/) (TIME). DejMadce fundraiser, 86,645 PLN.
 
-
-
-
-
-
-
-  
-</p>
-
-
+Queer, autistic, ADHD. Born in Poland. Will talk about *The Last of Us* if you let me.
