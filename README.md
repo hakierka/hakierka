@@ -1,15 +1,36 @@
 # 🎮 Amy Waliszewska
 
-**Player 1.** Developer relations in Stockholm. I make developers care about products, and make products worth caring about.
+```bash
+$ whoami
+amy, developer relations, Stockholm
 
-- 🎯 **Now:** docs, demos, talks and communities. Lately for AI: adoption and quality.
-- 🏆 **High scores:** Chromia Twitter from 20K to 120K followers with no paid ads, the Web3.Storage to Storacha rebrand and a Bangkok launch party, the Concordium Academy and its Rust tutorials.
-- 🎤 **Stages:** Devcon Bangkok, Paris Blockchain Week, Aggregation Summit, AfriDevCon and more.
-- ✍️ **Writing:** articles on Medium and the Chromia blog.
-- 🛠️ **Demos:** coming back one at a time, slowly, on purpose.
-- 💬 **Ask me about:** docs, DevRel, communities and getting people to use AI tools.
-- ⚡ **Fun fact:** I will eventually start talking about video games.
+$ cat mission.txt
+make developers care about products, and make products worth caring about
+
+$ ls highlights/
+chromia/  storacha/  concordium/  cudo-ventures/  geek-girls-carrots/
+```
+
+```ts
+const amy = {
+  role: "Developer Relations",
+  writes: ["docs", "tutorials", "talks", "articles"],
+  runs: ["launches", "workshops", "hackathons", "communities"],
+  languages: ["JavaScript", "TypeScript", "Python", "Rust", "Solidity", "Dart"],
+  toolbelt: ["Cursor", "Claude", "Warp"],
+  nowPlaying: "AI adoption and quality",
+  funFact: "will eventually start talking about video games",
+} as const;
+```
+
+| High score | Level cleared |
+| --- | --- |
+| Chromia | Twitter from 20K to 120K followers, no paid ads |
+| Storacha | Web3.Storage to Storacha rebrand, Bangkok launch party |
+| Concordium | The Academy and its Rust tutorials |
+
+🛠️ Demo repos are coming back one at a time, slowly, on purpose.
 
 ▶ **[Press start: hakierka.github.io](https://hakierka.github.io)**
 
-**Find me:** [LinkedIn](https://www.linkedin.com/in/amywaliszewska) · [Medium](https://medium.com/@amywal) · [Email](mailto:amy.waliszewska@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/amywaliszewska) · [Medium](https://medium.com/@amywal) · [Email](mailto:amy.waliszewska@gmail.com)
