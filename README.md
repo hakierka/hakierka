@@ -1,4 +1,6 @@
-# 🎮 Amy Waliszewska
+<p align="center">
+  <img src="assets/cover.png" alt="Amy Waliszewska, Developer Relations" width="100%">
+</p>
 
 ```bash
 $ whoami
