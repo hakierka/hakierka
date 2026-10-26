@@ -33,6 +33,9 @@ const amy = {
 
 🛠️ Demo repos are coming back one at a time, slowly, on purpose.
 
+📝 Latest: [My docs made the AI agent worse. Then I fixed them.](https://medium.com/@amywal/my-docs-made-the-ai-agent-worse-then-i-fixed-them-f4a713cb8ade)
+🧪 First demo back: [docs-the-agent-can-read](https://github.com/hakierka/docs-the-agent-can-read)
+
 ▶ **[Press start: hakierka.github.io](https://hakierka.github.io)**
 
 [LinkedIn](https://www.linkedin.com/in/amywaliszewska) · [Medium](https://medium.com/@amywal) · [Email](mailto:amy.waliszewska@gmail.com)
